@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">College System</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="enter_user_id">Enter User Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="enter_attendance">Enter Attendance</string>
+    <string name="add_new_student">Add New Student</string>
+    <string name="view_student_details">View Student details</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="student_name">Student Name</string>
+    <string name="roll_no">Roll No :</string>
+    <string name="department">Department:</string>
+    <string name="contact">Contact:</string>
+    <string name="name">Name</string>
+    <string name="bca601">BCA601</string>
+    <string name="bca602">BCA602</string>
+    <string name="bca603">BCA603</string>
+    <string name="bca604">BCA604</string>
+    <string name="bca606">BCA606</string>
+    <string name="bca607">BCA607</string>
+    <string name="BCA605">BCA605</string>
+    <string name="bca608">BCA608</string>
+    <string name="reg">Register</string>
+    <string name="submit_today_apos_s_attendance">SUBMIT TODAY\'S ATTENDANCE</string>
+    <string name="enter_roll_no">Enter Roll No.</string>
+    <string name="get_information">GET INFORMATION</string>
+    <string name="enter_email_address">Enter email address</string>
+
+    <string name="log_in">Log In</string>
+    <string name="user_id">User Id</string>
+
+    <string name="dept">Dept.</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+</resources>
